@@ -13,14 +13,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dcblogdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dcblogdev" height="30" width="40" /></a>
+<a href="https://dev.to/dcblog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dcblogdev" height="30" width="40" /></a>
 <a href="https://twitter.com/dcblogdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dcblogdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/daveismyname" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daveismyname" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/1017963" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1017963" height="30" width="40" /></a>
 <a href="https://fb.com/dcblogdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dcblogdev" height="30" width="40" /></a>
 <a href="https://hashnode.com/@dcblogdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@dcblogdev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucnrtlv5oynbgiaxslf-gsma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucnrtlv5oynbgiaxslf-gsma" height="30" width="40" /></a>
-<a href="/https://dcblog.dev/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://dcblog.dev/rss" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCnRtlv5OYnbgIaXSlf-gSmA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucnrtlv5oynbgiaxslf-gsma" height="30" width="40" /></a>
+<a href="https://dcblog.dev/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://dcblog.dev/rss" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
