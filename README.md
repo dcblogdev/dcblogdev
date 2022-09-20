@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Carr</h1>
 <h3 align="center">A passionate PHP developer from England</h3>
 
-<p align="left"> <a href="https://twitter.com/dcblogdev" target="blank"><img src="https://img.shields.io/twitter/follow/dcblogdev?logo=twitter&style=for-the-badge" alt="dcblogdev" /></a> </p>
-
 - 🔭 I've written a book on Laravel Modules [Laravel: The Modular Way](https://modularlaravel.com/)
 
 - 📝 I regularly write articles on [https://dcblog.dev](https://dcblog.dev)
@@ -12,6 +10,9 @@
 - 📫 How to reach me **dave@dcblog.dev**
 
 <h3 align="left">Connect with me:</h3>
+
+<p align="left"> <a href="https://twitter.com/dcblogdev" target="blank"><img src="https://img.shields.io/twitter/follow/dcblogdev?logo=twitter&style=for-the-badge" alt="dcblogdev" /></a> </p>
+
 <p align="left">
 <a href="https://dev.to/dcblog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dcblogdev" height="30" width="40" /></a>
 <a href="https://twitter.com/dcblogdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dcblogdev" height="30" width="40" /></a>
