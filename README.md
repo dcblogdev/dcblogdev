@@ -27,11 +27,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Laravel boot multiple traits](https://dcblog.dev/laravel-boot-multiple-traits)
 - [Laravel how to test CSV download](https://dcblog.dev/laravel-how-to-test-csv-download)
 - [Laravel organise migrations into folders](https://dcblog.dev/laravel-organise-migrations-into-folders)
 - [Laravel how to set app environment during tests](https://dcblog.dev/laravel-how-to-set-app-environment-during-tests)
 - [Laravel Sync Remote Database Package](https://dcblog.dev/laravel-sync-remote-database-package)
-- [How to Drive Traffic to Your Website in 2022: Tips for Web Developers](https://dcblog.dev/how-to-drive-traffic-to-your-website-in-2022-tips-for-web-developers)
 <!-- BLOG-POST-LIST:END -->
 
 
