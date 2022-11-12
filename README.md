@@ -27,11 +27,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Laravel Sail alongside PhpStorm](https://dcblog.dev/using-laravel-sail-alongside-phpstorm)
 - [Handle Stripe checkout webhooks](https://dcblog.dev/handle-stripe-checkout-webhooks)
 - [Sell products with Stripe](https://dcblog.dev/sell-products-with-stripe)
 - [Laravel update factory after creation](https://dcblog.dev/laravel-update-factory-after-creation)
 - [Laravel boot multiple traits](https://dcblog.dev/laravel-boot-multiple-traits)
-- [Laravel how to test CSV download](https://dcblog.dev/laravel-how-to-test-csv-download)
 <!-- BLOG-POST-LIST:END -->
 
 
