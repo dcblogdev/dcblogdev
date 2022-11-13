@@ -33,6 +33,3 @@
 - [Laravel update factory after creation](https://dcblog.dev/laravel-update-factory-after-creation)
 - [Laravel boot multiple traits](https://dcblog.dev/laravel-boot-multiple-traits)
 <!-- BLOG-POST-LIST:END -->
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dcblogdev&show_icons=true&locale=en" alt="dcblogdev" /></p>
