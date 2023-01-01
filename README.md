@@ -27,9 +27,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PHP Generate a UL menu from an array](https://dcblog.dev/php-generate-a-ul-menu-from-an-array)
 - [Write an SEO-Friendly Title: A Quick Start Guide](https://dcblog.dev/write-an-seo-friendly-title-a-quick-start-guide)
 - [Use PHP to generate table of contents from heading tags](https://dcblog.dev/use-php-to-generate-table-of-contents-from-heading-tags)
 - [Running Docker on M1 Mac - docker: compose is not a docker](https://dcblog.dev/running-docker-on-m1-mac-docker-compose-is-not-a-docker)
 - [Using Laravel Sail alongside PhpStorm](https://dcblog.dev/using-laravel-sail-alongside-phpstorm)
-- [Handle Stripe checkout webhooks](https://dcblog.dev/handle-stripe-checkout-webhooks)
 <!-- BLOG-POST-LIST:END -->
