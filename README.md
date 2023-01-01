@@ -23,13 +23,3 @@
 <a href="https://www.youtube.com/channel/UCnRtlv5OYnbgIaXSlf-gSmA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucnrtlv5oynbgiaxslf-gsma" height="30" width="40" /></a>
 <a href="https://dcblog.dev/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://dcblog.dev/rss" height="30" width="40" /></a>
 </p>
-
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Write an SEO-friendly title: A quick start guide](https://dcblog.dev/write-an-seo-friendly-title-a-quick-start-guide)
-- [Use PHP to generate table of contents from heading tags](https://dcblog.dev/use-php-to-generate-table-of-contents-from-heading-tags)
-- [Running Docker on M1 Mac - docker: compose is not a docker](https://dcblog.dev/running-docker-on-m1-mac-docker-compose-is-not-a-docker)
-- [Using Laravel Sail alongside PhpStorm](https://dcblog.dev/using-laravel-sail-alongside-phpstorm)
-- [Handle Stripe checkout webhooks](https://dcblog.dev/handle-stripe-checkout-webhooks)
-<!-- BLOG-POST-LIST:END -->
