@@ -33,3 +33,5 @@
 - [Running Docker on M1 Mac - docker: compose is not a docker](https://dcblog.dev/running-docker-on-m1-mac-docker-compose-is-not-a-docker)
 - [Using Laravel Sail alongside PhpStorm](https://dcblog.dev/using-laravel-sail-alongside-phpstorm)
 <!-- BLOG-POST-LIST:END -->
+
+<a href="https://app.daily.dev/dcblogdev"><img src="https://api.daily.dev/devcards/db59217c13aa4f788b76cabfb5755a52.png?r=vir" width="400" alt="David Carr's Dev Card"/></a>
