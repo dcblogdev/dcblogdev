@@ -27,11 +27,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dev Retro 2022 - My reflections](https://dcblog.dev/dev-retro-2022-my-reflections)
 - [Setup Jira for managing scrum Sprints from scratch](https://dcblog.dev/setup-jira-for-managing-scrum-sprints-from-scratch)
 - [PHP Generate a UL menu from an array](https://dcblog.dev/php-generate-a-ul-menu-from-an-array)
 - [Write an SEO-Friendly Title: A Quick Start Guide](https://dcblog.dev/write-an-seo-friendly-title-a-quick-start-guide)
 - [Use PHP to generate table of contents from heading tags](https://dcblog.dev/use-php-to-generate-table-of-contents-from-heading-tags)
-- [Running Docker on M1 Mac - docker: compose is not a docker](https://dcblog.dev/running-docker-on-m1-mac-docker-compose-is-not-a-docker)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://app.daily.dev/dcblogdev"><img src="https://api.daily.dev/devcards/db59217c13aa4f788b76cabfb5755a52.png?r=vir" width="400" alt="David Carr's Dev Card"/></a>
