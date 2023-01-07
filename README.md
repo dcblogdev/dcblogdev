@@ -33,5 +33,3 @@
 - [Write an SEO-Friendly Title: A Quick Start Guide](https://dcblog.dev/write-an-seo-friendly-title-a-quick-start-guide)
 - [Use PHP to generate table of contents from heading tags](https://dcblog.dev/use-php-to-generate-table-of-contents-from-heading-tags)
 <!-- BLOG-POST-LIST:END -->
-
-<a href="https://app.daily.dev/dcblogdev"><img src="https://api.daily.dev/devcards/db59217c13aa4f788b76cabfb5755a52.png?r=vir" width="400" alt="David Carr's Dev Card"/></a>
