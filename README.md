@@ -33,3 +33,4 @@
 - [Write an SEO-Friendly Title: A Quick Start Guide](https://dcblog.dev/write-an-seo-friendly-title-a-quick-start-guide)
 - [Use PHP to generate table of contents from heading tags](https://dcblog.dev/use-php-to-generate-table-of-contents-from-heading-tags)
 <!-- BLOG-POST-LIST:END -->
+
