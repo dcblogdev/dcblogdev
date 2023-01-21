@@ -27,10 +27,10 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Upload images in Ckeditor 5 with Laravel](https://dcblog.dev/upload-images-in-ckeditor-5-with-laravel)
 - [Dev Retro 2022 - My reflections](https://dcblog.dev/dev-retro-2022-my-reflections)
 - [Setup Jira for managing scrum Sprints from scratch](https://dcblog.dev/setup-jira-for-managing-scrum-sprints-from-scratch)
 - [PHP Generate a UL menu from an array](https://dcblog.dev/php-generate-a-ul-menu-from-an-array)
 - [Write an SEO-friendly title: A quick start guide](https://dcblog.dev/write-an-seo-friendly-title-a-quick-start-guide)
-- [Use PHP to generate table of contents from heading tags](https://dcblog.dev/use-php-to-generate-table-of-contents-from-heading-tags)
 <!-- BLOG-POST-LIST:END -->
 
