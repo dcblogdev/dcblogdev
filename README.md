@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **PHP, Laravel, Laravel Livewire, AlpineJS, TailwindCSS**
 
-- 📫 How to reach me **dave@dcblog.dev**
+- 📫 How to contact me **dave@dcblog.dev**
 
 <p align="left">
 <a href="https://dev.to/dcblog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dcblogdev" height="30" width="40" /></a>
