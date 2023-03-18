@@ -23,10 +23,10 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m writing a new Laravel book on testing called Laravel Testing Cookbook](https://dcblog.dev/im-writing-a-new-laravel-book-on-testing-called-laravel-testing-cookbook)
 - [Adding pinned posts with Laravel](https://dcblog.dev/adding-pinned-posts-with-laravel)
 - [Laravel Livewire Resources](https://dcblog.dev/laravel-livewire-resources)
 - [Upload images in Ckeditor 5 with Laravel](https://dcblog.dev/upload-images-in-ckeditor-5-with-laravel)
 - [Dev Retro 2022 - My reflections](https://dcblog.dev/dev-retro-2022-my-reflections)
-- [Setup Jira for managing scrum Sprints from scratch](https://dcblog.dev/setup-jira-for-managing-scrum-sprints-from-scratch)
 <!-- BLOG-POST-LIST:END -->
 
