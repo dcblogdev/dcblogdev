@@ -23,10 +23,10 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vue show and hide form elements](https://dcblog.dev/vue-show-and-hide-form-elements)
 - [My PhpStorm Setup](https://dcblog.dev/my-phpstorm-setup)
 - [VIM shortcuts](https://dcblog.dev/vim-shortcuts)
 - [Laravel Extract Language to lang files](https://dcblog.dev/laravel-extract-language-to-lang-files)
 - [I&#39;m writing a new Laravel book on testing called Laravel Testing Cookbook](https://dcblog.dev/im-writing-a-new-laravel-book-on-testing-called-laravel-testing-cookbook)
-- [Adding pinned posts with Laravel](https://dcblog.dev/adding-pinned-posts-with-laravel)
 <!-- BLOG-POST-LIST:END -->
 
