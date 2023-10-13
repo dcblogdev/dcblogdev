@@ -23,10 +23,10 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Running HTTP requests in PhpStorm](https://dcblog.dev/running-http-requests-in-phpstorm)
+- [Extracting a time into select menus with PHP](https://dcblog.dev/extracting-a-time-into-select-menus-with-php)
 - [Vue show and hide form elements](https://dcblog.dev/vue-show-and-hide-form-elements)
 - [My PhpStorm Setup](https://dcblog.dev/my-phpstorm-setup)
 - [VIM shortcuts](https://dcblog.dev/vim-shortcuts)
-- [Laravel Extract Language to lang files](https://dcblog.dev/laravel-extract-language-to-lang-files)
-- [I&#39;m writing a new Laravel book on testing called Laravel Testing Cookbook](https://dcblog.dev/im-writing-a-new-laravel-book-on-testing-called-laravel-testing-cookbook)
 <!-- BLOG-POST-LIST:END -->
 
