@@ -35,3 +35,12 @@ There is a Discord community. https://discord.gg/VYau8hgwrm For quick help, ask 
 - [My PhpStorm Setup](https://dcblog.dev/my-phpstorm-setup)
 <!-- BLOG-POST-LIST:END -->
 
+## My GitHub Stats
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dcblogdev&count_private=true&show_icons=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dcblogdev&theme=radical&layout=compact&langs_count=10 />
+  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=dcblogdev&theme=radical"/>
+</p>
+
+
