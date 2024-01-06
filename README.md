@@ -28,11 +28,11 @@ There is a Discord community. https://discord.gg/VYau8hgwrm For quick help, ask 
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Black Friday Sale on Laravel:The Modular Way](https://dcblog.dev/black-friday-sale-on-laravelthe-modular-way)
-- [My process for writing Laravel packages](https://dcblog.dev/my-process-for-writing-laravel-packages)
-- [Running HTTP requests in PhpStorm](https://dcblog.dev/running-http-requests-in-phpstorm)
-- [Extracting a time into select menus with PHP](https://dcblog.dev/extracting-a-time-into-select-menus-with-php)
-- [Vue show and hide form elements](https://dcblog.dev/vue-show-and-hide-form-elements)
+- [Black Friday Sale on Laravel:The Modular Way](https://dcblogdev.hashnode.dev/black-friday-sale-on-laravelthe-modular-way)
+- [My process for writing Laravel packages](https://dcblogdev.hashnode.dev/my-process-for-writing-laravel-packages)
+- [Running HTTP requests in PhpStorm](https://dcblogdev.hashnode.dev/running-http-requests-in-phpstorm)
+- [Extracting a time into select menus with PHP](https://dcblogdev.hashnode.dev/extracting-a-time-into-select-menus-with-php)
+- [Vue show and hide form elements](https://dcblogdev.hashnode.dev/vue-show-and-hide-form-elements)
 <!-- BLOG-POST-LIST:END -->
 
 ## My GitHub Stats
