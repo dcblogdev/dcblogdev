@@ -28,11 +28,11 @@ There is a Discord community. https://discord.gg/VYau8hgwrm For quick help, ask 
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating Flexible Layouts in Laravel with Yields, Includes, and Slots](https://dcblog.dev/creating-flexible-layouts-in-laravel-with-yields-includes-and-slots)
 - [Enhancing Laravel Applications with Traits: A Step-by-Step Guide](https://dcblog.dev/enhancing-laravel-applications-with-traits-a-step-by-step-guide)
 - [Laravel ApiResouce name nested route placeholder](https://dcblog.dev/laravel-apiresouce-name-nested-route-placeholder)
 - [Black Friday Sale on Laravel:The Modular Way](https://dcblog.dev/black-friday-sale-on-laravelthe-modular-way)
 - [My process for writing Laravel packages](https://dcblog.dev/my-process-for-writing-laravel-packages)
-- [Running HTTP requests in PhpStorm](https://dcblog.dev/running-http-requests-in-phpstorm)
 <!-- BLOG-POST-LIST:END -->
 
 ## My GitHub Stats
