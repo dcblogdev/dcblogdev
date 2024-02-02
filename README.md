@@ -29,7 +29,7 @@ There is a Discord community. https://discord.gg/VYau8hgwrm For quick help, ask 
 
 <!-- BLOG-POST-LIST:START -->
 - [The podcasts I listen to as a PHP developer](https://dcblog.dev/the-podcasts-i-listen-to-as-a-php-developer)
-- [Creating Flexible Layouts in Laravel with Yields, Includes and Slots](https://dcblog.dev/creating-flexible-layouts-in-laravel-with-yields-includes-and-slots)
+- [Creating Flexible Layouts in Laravel with Yields, Includes, and Slots](https://dcblog.dev/creating-flexible-layouts-in-laravel-with-yields-includes-and-slots)
 - [Enhancing Laravel Applications with Traits: A Step-by-Step Guide](https://dcblog.dev/enhancing-laravel-applications-with-traits-a-step-by-step-guide)
 - [Laravel ApiResouce name nested route placeholder](https://dcblog.dev/laravel-apiresouce-name-nested-route-placeholder)
 - [Black Friday Sale on Laravel:The Modular Way](https://dcblog.dev/black-friday-sale-on-laravelthe-modular-way)
