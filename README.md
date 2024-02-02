@@ -28,11 +28,11 @@ There is a Discord community. https://discord.gg/VYau8hgwrm For quick help, ask 
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub patch release previous version](https://dcblog.dev/github-patch-release-previous-version)
+- [How to disable Laravel console commands](https://dcblog.dev/how-to-disable-laravel-console-commands)
+- [15 years of blogging 500 posts later](https://dcblog.dev/15-years-of-blogging-500-posts-later)
 - [The podcasts I listen to as a PHP developer](https://dcblog.dev/the-podcasts-i-listen-to-as-a-php-developer)
-- [Creating Flexible Layouts in Laravel with Yields, Includes and Slots](https://dcblog.dev/creating-flexible-layouts-in-laravel-with-yields-includes-and-slots)
+- [Creating Flexible Layouts in Laravel with Yields, Includes, and Slots](https://dcblog.dev/creating-flexible-layouts-in-laravel-with-yields-includes-and-slots)
 - [Enhancing Laravel Applications with Traits: A Step-by-Step Guide](https://dcblog.dev/enhancing-laravel-applications-with-traits-a-step-by-step-guide)
-- [Laravel ApiResouce name nested route placeholder](https://dcblog.dev/laravel-apiresouce-name-nested-route-placeholder)
 <!-- BLOG-POST-LIST:END -->
 
 ## My GitHub Stats
