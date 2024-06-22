@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **PHP, Laravel, Laravel Livewire, AlpineJS, TailwindCSS**
 
-- 📫 How to contact me **dave@dcblog.dev**
+- 📫 How to contact me, **dave@dcblog.dev**
 
  ## Community
 
