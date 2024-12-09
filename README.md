@@ -9,6 +9,11 @@
 
 - 📫 How to contact me, **dave@dcblog.dev**
 
+ ## Trends
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/dcblogdev/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/dcblogdev/repos)](https://githubtrends.io)
+
  ## Community
 
 I run a Discord community. https://discord.gg/VYau8hgwrm For quick help, ask questions in the appropriate channel.
