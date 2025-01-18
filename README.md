@@ -10,7 +10,7 @@
 - 📫 How to contact me, **dave@dcblog.dev**
 
  ## Trends
-[![GitHub Streak](https://streak-stats.demolab.com?user=dcblogdev&theme=onedark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dcblogdev)](https://git.io/streak-stats)
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/dcblogdev/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)](https://githubtrends.io)
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/dcblogdev/repos)](https://githubtrends.io)
 
