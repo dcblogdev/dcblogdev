@@ -19,7 +19,6 @@
 
 I run a Discord community. https://discord.gg/VYau8hgwrm For quick help, ask questions in the appropriate channel.
 
-
 <p align="left">
 <a href="https://dev.to/dcblog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dcblogdev" height="30" width="40" /></a>
 <a href="https://twitter.com/dcblogdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dcblogdev" height="30" width="40" /></a>
