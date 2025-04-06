@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dave.</h1>
 <h3 align="center">I'm a software developer from England.</h3>
 
-- 🔭 I've written a book on Laravel Modules [Laravel: The Modular Way](https://modularlaravel.com)
+- 🔭 I've written a book on Laravel Modules [Laravel: The Modular Way](https://modularlaravel.com).
 
 - 📝 I regularly write articles on [https://dcblog.dev](https://dcblog.dev)
 
