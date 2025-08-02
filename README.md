@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://dcblog.dev](https://dcblog.dev)
 
-- 💬 Ask me about **PHP, Laravel, Laravel Livewire, AlpineJS, TailwindCSS.**
+- 💬 Ask me about **PHP, Laravel, Laravel Livewire, AlpineJS, TailwindCSS**
 
 - 📫 How to contact me, **dave@dcblog.dev**
 
